@@ -19,4 +19,4 @@ The online race uses Supabase. Its project URL and publishable key are in `Asset
 
 - Yucca mascot artwork: Universitas Ciputra Makassar, used with permission
 - Font: Liberation Sans, the TextMeshPro default (SIL Open Font License 1.1)
-- Scan sound: freesound.org
+- Scan sound: Sound from Zapsplat.com (ZapSplat Standard License)
