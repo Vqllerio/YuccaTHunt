@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="plaqueaward" size="0.150000 0.179641" />
+    <ImageTarget name="whiteboardjpg" size="0.150000 0.112500" />
+    <ImageTarget name="startposter" size="0.150000 0.268531" />
+    <ImageTarget name="itposter" size="0.150000 0.187500" />
+    <ImageTarget name="3dprinter" size="0.150000 0.081818" />
+    <ImageTarget name="keyboard" size="0.150000 0.081818" />
+    <ImageTarget name="product_card" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>

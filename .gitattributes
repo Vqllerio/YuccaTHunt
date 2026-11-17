@@ -1,0 +1,14 @@
+* text=auto
+*.cs text diff=csharp
+*.unity merge=binary
+*.prefab merge=binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.fbx binary
+*.gltf text
+*.glb binary
+*.apk binary
