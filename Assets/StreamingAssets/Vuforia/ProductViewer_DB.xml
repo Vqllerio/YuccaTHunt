@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="plaqueaward" size="0.150000 0.179641" />
-    <ImageTarget name="whiteboardjpg" size="0.150000 0.112500" />
-    <ImageTarget name="startposter" size="0.150000 0.268531" />
-    <ImageTarget name="itposter" size="0.150000 0.187500" />
-    <ImageTarget name="3dprinter" size="0.150000 0.081818" />
-    <ImageTarget name="keyboard" size="0.150000 0.081818" />
+    <ImageTarget name="forgymascot" size="0.150000 0.211613" />
+    <ImageTarget name="collabwall" size="0.150000 0.231847" />
+    <ImageTarget name="artproject" size="0.150000 0.153702" />
+    <ImageTarget name="plaqueaward" size="0.150000 0.342220" />
+    <ImageTarget name="entranceposter" size="5.000000 7.071788" />
+    <ImageTarget name="keyboard" size="0.150000 0.054876" />
     <ImageTarget name="product_card" size="0.150000 0.150000" />
   </Tracking>
 </QCARConfig>
