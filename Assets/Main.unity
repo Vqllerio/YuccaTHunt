@@ -759,7 +759,7 @@ GameObject:
   - component: {fileID: 130657003}
   - component: {fileID: 130657007}
   m_Layer: 0
-  m_Name: ImageTarget_Printer3D
+  m_Name: ImageTarget_Forgy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -777,7 +777,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85fca0f3a18cc994892d513a284bc9b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TargetEventHandler
-  itemId: Printer3D
+  itemId: Forgy
   scanBurst: {fileID: 469685785}
   lostSecondsBeforeRescan: 2
   cooldownSeconds: 3
@@ -840,13 +840,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: 3dprinter
+  mTrackableName: forgymascot
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ProductViewer_DB.xml
-  mAspectRatio: 0.5454533
+  mAspectRatio: 1.4107533
   mImageTargetType: 0
   mWidth: 0.15
-  mHeight: 0.081818
+  mHeight: 0.211613
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -882,7 +882,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 130657005}
   mHiddenRoot: {fileID: 0}
-  mTargetName: 3dprinter
+  mTargetName: forgymascot
   mDatasetName: Vuforia/ProductViewer_DB.xml
   mCastedBehaviour: {fileID: 130657005}
   mMeshFilter: {fileID: 0}
@@ -9274,7 +9274,7 @@ GameObject:
   - component: {fileID: 796006109}
   - component: {fileID: 796006113}
   m_Layer: 0
-  m_Name: ImageTarget_ITPoster
+  m_Name: ImageTarget_VCDArtwork
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9292,7 +9292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85fca0f3a18cc994892d513a284bc9b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TargetEventHandler
-  itemId: ITPoster
+  itemId: VCDArtwork
   scanBurst: {fileID: 1586760652}
   lostSecondsBeforeRescan: 2
   cooldownSeconds: 3
@@ -9355,13 +9355,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: itposter
+  mTrackableName: artproject
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ProductViewer_DB.xml
-  mAspectRatio: 1.25
+  mAspectRatio: 1.02468
   mImageTargetType: 0
   mWidth: 0.15
-  mHeight: 0.1875
+  mHeight: 0.153702
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -9398,7 +9398,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 796006111}
   mHiddenRoot: {fileID: 0}
-  mTargetName: itposter
+  mTargetName: artproject
   mDatasetName: Vuforia/ProductViewer_DB.xml
   mCastedBehaviour: {fileID: 796006111}
   mMeshFilter: {fileID: 0}
@@ -9481,7 +9481,7 @@ GameObject:
   - component: {fileID: 880151444}
   - component: {fileID: 880151448}
   m_Layer: 0
-  m_Name: ImageTarget_Whiteboard
+  m_Name: ImageTarget_CollabWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9499,7 +9499,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85fca0f3a18cc994892d513a284bc9b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TargetEventHandler
-  itemId: Whiteboard
+  itemId: CollabWall
   scanBurst: {fileID: 1960833960}
   lostSecondsBeforeRescan: 2
   cooldownSeconds: 3
@@ -9562,13 +9562,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: whiteboardjpg
+  mTrackableName: collabwall
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ProductViewer_DB.xml
-  mAspectRatio: 0.74999994
+  mAspectRatio: 1.5456467
   mImageTargetType: 0
   mWidth: 0.15
-  mHeight: 0.1125
+  mHeight: 0.231847
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -9605,7 +9605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 880151446}
   mHiddenRoot: {fileID: 0}
-  mTargetName: whiteboardjpg
+  mTargetName: collabwall
   mDatasetName: Vuforia/ProductViewer_DB.xml
   mCastedBehaviour: {fileID: 880151446}
   mMeshFilter: {fileID: 0}
@@ -13590,13 +13590,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: startposter
+  mTrackableName: entranceposter
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ProductViewer_DB.xml
-  mAspectRatio: 1.7902066
+  mAspectRatio: 1.4143599
   mImageTargetType: 0
   mWidth: 0.15
-  mHeight: 0.268531
+  mHeight: 0.212154
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -13632,7 +13632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 1563287707}
   mHiddenRoot: {fileID: 0}
-  mTargetName: startposter
+  mTargetName: entranceposter
   mDatasetName: Vuforia/ProductViewer_DB.xml
   mCastedBehaviour: {fileID: 1563287707}
   mMeshFilter: {fileID: 0}
@@ -16693,18 +16693,23 @@ MonoBehaviour:
   - itemId: Keyboard
     displayName: Keyboard
     memoryLine: I remember the first line of code ever typed on this floor. It was in Python. It didn't compile. We were all very proud anyway.
-  - itemId: ITPoster
-    displayName: IT Poster
-    memoryLine: I was installed the year the Informatics major started 2021. There were only blabla students then. Look at us now.
-  - itemId: Whiteboard
-    displayName: Whiteboard
-    memoryLine: omeone drew Hatsune Miku on this board and nobody erased it for weeks. That's when I knew this floor had a personality.
+    hintLine: Follow the sound of keys being typed on. Look for the oldest one in the lounge.
   - itemId: Plaque
     displayName: Plaque
     memoryLine: This plaque marks `[the floor's opening / a founder / an award]`. I remember the day it went up. There was `[free food / a speech / a very long speech]`.
-  - itemId: Printer3D
-    displayName: 3D Printer
-    memoryLine: I've watched `[N]` student projects get printed here. Some worked. Some became `[paperweights / art / cautionary tales]`.
+    hintLine: "It\u2019s mounted and it\u2019s shiny. Look near the entrance."
+  - itemId: VCDArtwork
+    displayName: VCD Artwork
+    memoryLine: The VCD students made this and hung it on our floor. We write code, they make art. This floor is better because we share it.
+    hintLine: Something made by our neighbours in Visual Communication Design.
+  - itemId: CollabWall
+    displayName: Collab Wall
+    memoryLine: Every logo on this wall is a door someone opened. These companies worked with our students, and some of them hired us after.
+    hintLine: A wooden wall covered in names.
+  - itemId: Forgy
+    displayName: Forgy
+    memoryLine: Forgy and I go way back. It's the face of Informatics, I'm the keeper of this floor. Between us, we've seen every new batch walk in.
+    hintLine: Look for a friend of mine. Another mascot.
   allowMemoryReplay: 1
   logScans: 1
 --- !u!4 &1884308533
